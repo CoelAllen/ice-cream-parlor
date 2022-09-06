@@ -1,0 +1,55 @@
+.menu-item {
+  height: 20vh;
+  width: 30vh;
+  border: solid 1px pink;
+  border-radius: 5px;
+  box-shadow: 2px 2px 0 2px lightpink;
+}
+
+.menu-section {
+  background-color: rgba(0, 255, 255, 0.335);
+}
+
+.menu-item:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.cart-image {
+  background-image: url("https://i.pinimg.com/736x/f2/43/a3/f243a3543857fe9bda4369aedefda63b.jpg");
+  height: 200vh;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  padding: 1rem;
+}
+
+.menu-font {
+  color: aqua;
+  font-weight: bolder;
+  text-shadow: 1px 1px blue;
+}
+
+.hero {
+  background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/06/54/1e/ef/the-ice-cream-shop.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.menu-border {
+  border: solid 5px pink;
+  border-radius: 5px;
+}
+
+.cart-items {
+  border-bottom: solid 3px lightpink;
+  color: rgb(0, 150, 150);
+  padding-top: 1em;
+  text-shadow: 1px 1px blue;
+}
+
+.cart {
+  background-color: rgba(255, 192, 203, 0.403);
+}
